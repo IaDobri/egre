@@ -1,3 +1,31 @@
 p {
-    color: blue;
+    color: orangered;
+}
+
+h1 {
+    color: rgb(58, 178, 47);
+}
+
+h2 {
+    color: rgb(60, 124, 228);
+}
+
+h3 {
+    color: rgb(186, 63, 52);
+}
+
+li {
+    color: #ff0000;
+}
+
+p {
+    width: 300px;
+}
+
+h1 {
+    text-align: right;
+}
+
+h2 {
+    text-align: center;
 }
